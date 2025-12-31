@@ -112,6 +112,10 @@ pyinstaller --onefile --windowed --name="jpXcode_AutoClicker" jpxcode_autoclicke
 ```
 
 3. **Output** ada di folder `dist/`
+```
+<img width="442" height="621" alt="r3534" src="https://github.com/user-attachments/assets/edd93b79-bf65-48c1-a857-8303f7bc4408" />
+```
+<img width="442" height="621" alt="r3534" src="https://github.com/user-attachments/assets/edd93b79-bf65-48c1-a857-8303f7bc4408" />
 
 ## 📦 Dependencies
 
